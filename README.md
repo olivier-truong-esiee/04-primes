@@ -14,6 +14,8 @@ Le fichier ``main.py`` contient :
   
 - la fonction principale ``main()`` qui fait quelques appels à la fonction secondaire permettant de vérifier son bon fonctionnement .
 
+<!-- START INSERT -->
+
 ## To do
 
 1️⃣ Ecrire (ou modifier) le code de la fonction secondaire.
@@ -44,3 +46,5 @@ Si le score de qualité ``SQ`` n'est pas maximal, répéter l'étape 5️⃣ en 
 
 > [!CAUTION]
 En cas de soumissions multiples, seule la première est prise en compte.
+
+<!-- END INSERT -->
