@@ -18,6 +18,9 @@ def isprime(p: int) -> bool:
     False
     """
 
+    if p < 2:
+        return False
+
     premier = True
     borne_max = int(p**0.5) + 1
     for i in range(2, borne_max):
